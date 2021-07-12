@@ -1,4 +1,3 @@
-///author : kartik8800
 #ifndef UNDIRECTEDGRAPH_H
 #define UNDIRECTEDGRAPH_H
 
